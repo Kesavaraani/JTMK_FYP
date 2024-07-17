@@ -1,1 +1,1 @@
-THis repository is about JTMK Final Year Project.
+This repository is about JTMK Final Year Project.
